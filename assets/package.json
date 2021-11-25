@@ -17,6 +17,7 @@
     "hyperlist": "^1.0.0",
     "mermaid": "^9.0.0",
     "monaco-editor": "^0.33.0",
+    "monaco-vim": "^0.1.19",
     "morphdom": "^2.6.1",
     "phoenix": "file:../deps/phoenix",
     "phoenix_html": "file:../deps/phoenix_html",

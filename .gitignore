@@ -33,3 +33,6 @@ npm-debug.log
 
 # The built Escript
 /livebook
+
+# Ignore personal envrc settings
+.envrc
